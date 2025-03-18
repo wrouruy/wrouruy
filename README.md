@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Andrew</h1>
-<h3 align="left" font-weight="600"><span font-weight="800">A Junior Front-end developer from Ukraine</span>, I've been studying programming since the fall of 2023, I'm interested in it and I don't stop studying!</h3>
+<h3 align="left" font="600"><span font="800">A Junior Front-end developer from Ukraine</span>, I've been studying programming since the fall of 2023, I'm interested in it and I don't stop studying!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
