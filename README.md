@@ -2,7 +2,7 @@
 <h3 align="center">A Junior Fullstack developer from Ukraine</h3>
 
 <h3 align="left">👤 Who am I:</h3>
-<p align="left">
+<p align="left" background="black">
   <h4>Hello everyone🖐️!<br>And I repeat 2 times, but my name is Andrew - Junior Fullstack developer with experience,<br>I started studying programming in the fall of 2023🍂, I love to code and learn new things❤️‍🔥</h4>
 </p>
 <h3 align="left">📬 Connect with me:</h3>
