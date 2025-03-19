@@ -28,5 +28,5 @@
 <p align="left">
   <img width="30px">
   <a href="https://www.youtube.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/YouTube_social_white_square_%282024%29.svg/1200px-YouTube_social_white_square_%282024%29.svg.png" alt="youtube" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/" target="_blank" rel="noreferrer> <img src="https://pbs.twimg.com/profile_images/1511434207079407618/AwzUxnVf_400x400.png" alt="MDN Web Docs" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/" target="_blank" rel="noreferrer> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFY3CTWscgJnTYCmqg20d39KHA1ZuCfupa3_zCPB-V2ofsTTSdiG7OHuvdMo1euPYj1c&usqp=CAU" alt="MDN Web Docs" width="40" height="40"/> </a>
 </p>
