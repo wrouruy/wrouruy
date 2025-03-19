@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Andrew</h1>
 <h3 align="center">A Junior Fullstack developer from Ukraine</h3>
 
-👤 **Who am I:
+👤 Who am I:
 ```txt
   Hello everyone🖐️!<br>And I repeat 2 times, but my name is Andrew - Junior Fullstack developer with experience,<br>I started studying programming in the fall of 2023🍂, I love to code and learn new things❤️‍🔥
 ```
