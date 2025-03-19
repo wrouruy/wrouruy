@@ -11,7 +11,16 @@
   <a href="https://t.me/wrouruy" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_dbOUeCrOBe-mkfGD-fEjQNECJrkromWTYg&s" alt="wrouruy" height="40" width="40" /></a>
   <a href="https://www.instagram.com/wrouruy" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/87/87390.png" alt="wrouruy" height="40" width="40" /></a>
 </p>
+<script src="https://cdn.lordicon.com/lordicon.js"></script>
 
+<lord-icon
+    src="https://cdn.lordicon.com/lewtedlh.json"
+    trigger="hover"
+    stroke="light"
+    state="hover-pinch"
+    colors="primary:#3080e8,secondary:#b4b4b4"
+    style="width:250px;height:250px">
+</lord-icon>
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
   <img width="30px">
