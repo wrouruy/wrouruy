@@ -1,18 +1,18 @@
 <h1 align="center">Hi there👋, I'm Andrew</h1>
 <h3 align="center">A Junior Fullstack developer from Ukraine</h3>
 
-<h2 align="left">👤 Who am I:</h2>
+<h3 align="left">👤 Who am I:</h3>
 <p align="left">
   <h3>Hello everyone🖐️!<br>And I repeat 2 times, but my name is Andriy - Junior Fullstack developer with experience,<br>I started studying programming in the fall of 2023, I love to code and learn new things</h4>
 </p>
-<h2 align="left">📬 Connect with me:</h2>
+<h3 align="left">📬 Connect with me:</h3>
 <p align="left">
   <img width="30px">
   <a href="https://t.me/wrouruy" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_dbOUeCrOBe-mkfGD-fEjQNECJrkromWTYg&s" alt="wrouruy" height="40" width="40" /></a>
   <a href="https://www.instagram.com/wrouruy" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/87/87390.png" alt="wrouruy" height="40" width="40" /></a>
 </p>
 
-<h2 align="left">🛠 Languages and Tools:</h2>
+<h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
   <img width="30px">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -23,7 +23,7 @@
   <a href="https://jquery.com" target="_blank" rel="noreferrer"> <img src="https://cdn.shopware.store/H/D/7/H3WDw/media/a2/65/f7/1712844867/4ed56f1b984ca899c1ec2ff38da5f072.png?ts=1741191066" alt="jquery" width="40" height="40"/> </a>
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" alt="electron" width="40" height="40"/> </a>
 </p>
-<h2 align="left">📚 My resources:</h2>
+<h3 align="left">📚 My resources:</h3>
 <p align="left">
   <img width="30px">
   <a href="https://www.youtube.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/YouTube_social_white_square_%282024%29.svg/1200px-YouTube_social_white_square_%282024%29.svg.png" alt="youtube" width="40" height="40"/> </a>
