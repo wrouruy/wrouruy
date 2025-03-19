@@ -1,14 +1,11 @@
 <h1 align="center">Hi there👋, I'm Andrew</h1>
 <h3 align="center">A Junior Fullstack developer from Ukraine</h3>
 
-👤 Who am I:
+<h3 align="left">👤 Who am I:</h3>
 ```txt
   Hello everyone🖐️!<br>And I repeat 2 times, but my name is Andrew - Junior Fullstack developer with experience,<br>I started studying programming in the fall of 2023🍂, I love to code and learn new things❤️‍🔥
 ```
-<!-- <h3 align="left">👤 Who am I:</h3>
-<p align="left">
-  <h4>Hello everyone🖐️!<br>And I repeat 2 times, but my name is Andrew - Junior Fullstack developer with experience,<br>I started studying programming in the fall of 2023🍂, I love to code and learn new things❤️‍🔥</h4>
-</p> --!>
+
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
   <img width="30px">
