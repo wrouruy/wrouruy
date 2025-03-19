@@ -29,4 +29,5 @@
   <img width="30px">
   <a href="https://www.youtube.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/YouTube_social_white_square_%282024%29.svg/1200px-YouTube_social_white_square_%282024%29.svg.png" alt="youtube" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFY3CTWscgJnTYCmqg20d39KHA1ZuCfupa3_zCPB-V2ofsTTSdiG7OHuvdMo1euPYj1c&usqp=CAU" alt="MDN Web Docs" width="40" height="40"/></a>
+  <a href="https://stackoverflow.com"><img src"https://pbs.twimg.com/profile_images/1220067947798024192/30eZhfxx_400x400.png" width="40px" height="40px"></a>
 </p>
