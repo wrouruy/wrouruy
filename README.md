@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi there👋, I'm Andrew</h1>
 <h3 align="center">A Junior Fullstack developer from Ukraine</h3> --!>
 
-<h3>Hi there👋, I'm Andrew</h3>
+<h2>Hi there👋, I'm Andrew</h2>
 <h3 align="left">👤 Who am I:</h3>
 <p>
   Hello everyone🖐️!<br>
