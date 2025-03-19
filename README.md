@@ -3,9 +3,9 @@
 
 <h3 align="left">👤 Who am I:</h3>
 <p>
-Hello everyone🖐️!<br>
-And I repeat 2 times, but my name is Andrew - Junior Fullstack developer with experience,<br>
-I started studying programming in the fall of 2023🍂, I love to code and learn new things❤️‍🔥
+  Hello everyone🖐️!<br>
+  And I repeat 2 times, but my name is Andrew - Junior Fullstack developer with experience,<br>
+  I started studying programming in the fall of 2023🍂, I love to code and learn new things❤️‍🔥
 </p>
 
 <h3 align="left">📬 Connect with me:</h3>
@@ -17,7 +17,6 @@ I started studying programming in the fall of 2023🍂, I love to code and learn
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
-  <img width="30px">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -28,7 +27,6 @@ I started studying programming in the fall of 2023🍂, I love to code and learn
 </p>
 <h3 align="left">📚 My resources:</h3>
 <p align="left">
-  <img width="30px">
   <a href="https://www.youtube.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/YouTube_social_white_square_%282024%29.svg/1200px-YouTube_social_white_square_%282024%29.svg.png" alt="youtube" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFY3CTWscgJnTYCmqg20d39KHA1ZuCfupa3_zCPB-V2ofsTTSdiG7OHuvdMo1euPYj1c&usqp=CAU" alt="MDN Web Docs" width="40" height="40"/></a>
   <a href="https://stackoverflow.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" alt="stack overflow" width="40px" height="40px"></a>
