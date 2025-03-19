@@ -3,7 +3,6 @@
 
 <h3 align="left">👤 Who am I:</h3>
 <p align="left">
-  <img width="30px">
   <p>Hello everyone! 🖐️ And I repeat 2 times, but my name is Andriy - Junior Fullstack developer with experience, I started studying programming in the fall of 2023, I love to code and learn new things</p>
 </p>
 <h3 align="left">📬 Connect with me:</h3>
