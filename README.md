@@ -8,7 +8,7 @@
   And I repeat 2 times, but my name is Andrew - Junior Fullstack developer with experience,<br>
   I started studying programming in the fall of 2023🍂, I love to code and learn new things❤️‍🔥
   I specialize in frontend and backend development💻.<br><br>
-  🔥Passionate about:
+  <h4>🔥Passionate about:</h4>
   <ul>
     <li>game development</li>
     <li>web applications</li>
