@@ -10,7 +10,6 @@
 
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
-  <img width="30px">
   <a href="https://t.me/wrouruy" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_dbOUeCrOBe-mkfGD-fEjQNECJrkromWTYg&s" alt="wrouruy" height="40" width="40" /></a>
   <a href="https://www.instagram.com/wrouruy" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/87/87390.png" alt="wrouruy" height="40" width="40" /></a>
 </p>
