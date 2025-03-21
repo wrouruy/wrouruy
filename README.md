@@ -2,7 +2,7 @@
 <h3 align="left">👤 Who am I:</h3>
 <p>
   Hello everyone🖐️!<br>
-  And I repeat 2 times, but my name is Andrew - Junior developer with experience,<br>
+  And I repeat 2 times, but my name is Andrew - Middle developer with experience,<br>
   I started studying programming in the fall of 2023🍂, I love to code and learn new things❤️‍🔥<br>
   I specialize in frontend and backend development💻.<br>
   <h4>🔥Interested in development:</h4>
