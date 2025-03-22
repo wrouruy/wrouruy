@@ -40,5 +40,5 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40"/> </a>
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" alt="electron" width="40" height="40"/> </a>
   <a href="https://axios-http.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRraHaS4n1HwkvIX_P9s_BJ81_pjpdPMbqUaA&s" alt="axios" width="40"/> </a>
-  
+  <a href="https://axios-http.com/" target="_blank" rel="noreferrer"> <img src="./node-telegram-bot-api" alt="node-telegram-bot-api" height="40"/> </a>
 </p>
