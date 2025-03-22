@@ -35,7 +35,7 @@
   <a href="https://jquery.com" target="_blank" rel="noreferrer"> <img src="https://cdn.shopware.store/H/D/7/H3WDw/media/a2/65/f7/1712844867/4ed56f1b984ca899c1ec2ff38da5f072.png?ts=1741191066" alt="jquery" width="40" height="40"/> </a>
   
 </p>
-<h3>Node modules:</h3>
+<h3>♠️ Node modules:</h3>
 <p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40"/> </a>
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" alt="electron" width="40" height="40"/> </a>
