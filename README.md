@@ -8,7 +8,6 @@
   <h4>🔥Interested in development:</h4>
   <ul>
     <li>web applications</li>
-    <li>game development</li>
     <li>web site</li>
   </ul>
 </p>
