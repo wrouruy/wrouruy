@@ -12,11 +12,8 @@
   </ul>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=wrouruy&show_icons=true&theme=transparent&hide_title=true&hide_rank=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&hide=html,ruby&layout=compact"/>
-</p>
 <img src="https://github-readme-stats.vercel.app/api?username=wrouruy&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&hide=html,ruby&layout=compact"/>
 
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
