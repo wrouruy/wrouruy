@@ -20,7 +20,7 @@
 <p align="left">
   <a href="https://t.me/wrouruy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="telegram" height="40" width="40" /></a>
   <a href="https://www.instagram.com/wrouruy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1024px-Instagram-Icon.png" alt="instagram" height="40" width="40" /></a>
-  <a href="https://discordapp.com/users/945000495540502528" target="blank"><img align="center" src="https://images.icon-icons.com/2108/PNG/512/discord_icon_130958.png" alt="discord" height="40" width="40" /></a>
+  <a href="https://discordapp.com/users/945000495540502528" target="blank"><img align="center" src="https://www.svgrepo.com/show/349338/discord.svg" alt="discord" height="40" width="40" /></a>
 </p>
 <h3 align="left">📚 My resources:</h3>
 <p align="left">
