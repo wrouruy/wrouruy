@@ -30,7 +30,7 @@
   <a href="https://www.w3schools.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq_fjRVJLHlGB9w7R5zuvuciwZ9zwgGN6-oQ&s" alt="w3school" width="40px" height="40px"></a>
 </p>
 
-<h2>Skills</h2>
+<h2>My Skills:</h2>
 <h3 align="left">🛠 Languages and Framework:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
