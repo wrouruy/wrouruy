@@ -20,14 +20,14 @@
 <p align="left">
   <a href="https://t.me/wrouruy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="telegram" height="40" width="40" /></a>
   <a href="https://www.instagram.com/wrouruy" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1024px-Instagram-Icon.png" alt="instagram" height="40" width="40" /></a>
-  <a href="https://discordapp.com/users/945000495540502528" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPtRcT2UhJT7ZL1kLsQzvIbmPRmq5n5jiMVqsOnvfv5nlM50MbL7XGvupXBfcR_ZCwjag&usqp=CAU" alt="discord" height="40" width="40" /></a>
+  <a href="https://discordapp.com/users/945000495540502528" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="discord" height="40" width="40" /></a>
 </p>
 <h3 align="left">📚 My resources:</h3>
 <p align="left">
   <a href="https://www.youtube.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="youtube" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFY3CTWscgJnTYCmqg20d39KHA1ZuCfupa3_zCPB-V2ofsTTSdiG7OHuvdMo1euPYj1c&usqp=CAU" alt="MDN Web Docs" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/"><img src="https://cdn-1.webcatalog.io/catalog/mdn-web-docs/mdn-web-docs-icon.png?v=1714775085873" alt="MDN Web Docs" width="40" height="40"/></a>
   <a href="https://stackoverflow.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" alt="stack overflow" width="40px" height="40px"></a>
-  <a href="https://www.w3schools.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq_fjRVJLHlGB9w7R5zuvuciwZ9zwgGN6-oQ&s" alt="w3school" width="40px" height="40px"></a>
+  <a href="https://www.w3schools.com"><img src="https://avatars.githubusercontent.com/u/77673807?v=4" alt="w3school" width="40px" height="40px"></a>
 </p>
 
 <h2>My Skills:</h2>
