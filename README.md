@@ -49,8 +49,8 @@
 </p>
 <h3>📦 Other:</h3>
 <p align="left">
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="Git" width="40"/> </a>
   <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" alt="npm" height="40"/> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="Git" width="40"/> </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/> </a>
   <a href="https://fontawesome.com" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/font-awesome-icon-2048x2048-ntlx9tlt.png" alt="Font-awesome" width="40" height="40"/> </a>
 </p>
