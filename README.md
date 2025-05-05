@@ -47,3 +47,10 @@
   <a href="https://axios-http.com" target="_blank" rel="noreferrer"> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/axios-3088dorqgd2c1cu3h9xbue.png/axios-u9wj9f9fx8qch67xta7b0s.png?_a=DATAdtAAZAA0" alt="axios" width="40"/> </a>
   <a href="https://core.telegram.org/bots/samples" target="_blank" rel="noreferrer"> <img src="https://github.com/wrouruy/wrouruy/blob/main/node-telegram-bot-api.png" alt="node-telegram-bot-api" height="40"/> </a>
 </p>
+<h3>📦 Other:</h3>
+<p align="left">
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="Git" width="40"/> </a>
+  <a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" alt="npm" height="40"/> </a>
+  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="4o"/> </a>
+  <a href="https://fontawesome.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb-fSo1hYjeDsNGVmazx5ih_okrC7YZtUctg&s" alt="Font-awesome" width="40" height="40"/> </a>
+</p>
