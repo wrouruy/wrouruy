@@ -13,13 +13,13 @@ specialize in Fullstack development💻.<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&hide=html&layout=compact&theme=transparent" alt="top-language">
 <!-- https://github.r2v.ch/codewars?user=wrouruy --!>
 
-### 📬 Connect with me:
+#### 📬 Connect with me:
 <p align="left">
   <a href="https://t.me/wrouruy"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="telegram" height="40" width="40"/></a>
   <a href="https://www.instagram.com/wrouruy"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1024px-Instagram-Icon.png" alt="instagram" height="40" width="40"/></a>
   <a href="https://discordapp.com/users/945000495540502528"><img align="center" src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" alt="discord" height="40" width="40"/></a>
 </p>
-### 📚 My resources:
+#### 📚 My resources:
 <p align="left">
   <a href="https://www.youtube.com"> <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="youtube" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/"><img src="https://cdn-1.webcatalog.io/catalog/mdn-web-docs/mdn-web-docs-icon.png?v=1714775085873" alt="MDN Web Docs" width="40" height="40"/></a>
@@ -28,7 +28,7 @@ specialize in Fullstack development💻.<br>
 </p>
 
 ## My Skills:
-<h3 align="left">🛠 Languages and Framework:</h3>
+#### 🛠 Languages and Framework:
 <p align="left">
   <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
@@ -37,7 +37,7 @@ specialize in Fullstack development💻.<br>
   <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node JS" width="40" height="40"/></a>
   <a href="https://jquery.com"><img src="https://cdn.shopware.store/H/D/7/H3WDw/media/a2/65/f7/1712844867/4ed56f1b984ca899c1ec2ff38da5f072.png?ts=1741191066" alt="JQuery" width="40" height="40"/></a>
 </p>
-### 🗃️ Node modules:
+#### 🗃️ Node modules:
 <p align="left">
   <a href="https://expressjs.com"><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="40"/></a>
   <a href="https://www.electronjs.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" alt="electron" width="40" height="40"/></a>
