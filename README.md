@@ -13,7 +13,7 @@ specialize in Fullstack development💻.<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&hide=html&layout=compact&theme=transparent" alt="top-language">
 <!-- https://github.r2v.ch/codewars?user=wrouruy --!>
 
-#### 📬 Connect with me:
+## 📬 Connect with me:
 <p align="left">
   <a href="https://t.me/wrouruy"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="telegram" height="40" width="40"/></a>
   <a href="https://www.instagram.com/wrouruy"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1024px-Instagram-Icon.png" alt="instagram" height="40" width="40"/></a>
