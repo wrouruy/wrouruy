@@ -1,16 +1,13 @@
 ## Hi there👋, I'm Andrew
 ### 👤 Who am I:
-  Hello everyone 🖐️!
+Hello everyone 🖐️!\n
+And I repeat 2 times, but my name is Andrew - Middle developer with experience,\n
+I started studying programming in the fall of 2023 🍂, love to code and learn new things ❤️‍🔥,\n
+specialize in Fullstack development💻.\n
   
-  And I repeat 2 times, but my name is Andrew - Middle developer with experience,
-  
-  I started studying programming in the fall of 2023 🍂, love to code and learn new things ❤️‍🔥,
-  
-  specialize in Fullstack development💻.
-  
-  ##🔥Interested in development:
-    - web applications
-    - web site
+##🔥Interested in development:
+  - web applications
+  - web site
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=wrouruy&show_icons=true"/> --!>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&hide=html&layout=compact&theme=transparent"/>
