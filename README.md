@@ -1,16 +1,15 @@
-<h2>Hi there👋, I'm Andrew</h2>
-<h3 align="left">👤 Who am I:</h3>
-<p>
-  Hello everyone 🖐️!<br>
-  And I repeat 2 times, but my name is Andrew - Middle developer with experience,<br>
-  I started studying programming in the fall of 2023 🍂, love to code and learn new things ❤️‍🔥,<br>
-  specialize in Fullstack development💻.<br>
-  <h4>🔥Interested in development:</h4>
-  <ul>
-    <li>web applications</li>
-    <li>web site</li>
-  </ul>
-</p>
+## Hi there👋, I'm Andrew
+### 👤 Who am I:
+  Hello everyone 🖐️!
+  And I repeat 2 times, but my name is Andrew - Middle developer with experience,
+  I started studying programming in the fall of 2023 🍂, love to code and learn new things ❤️‍🔥,
+  specialize in Fullstack development💻.
+  ###🔥Interested in development:
+  
+    - web applications
+    - web site
+ 
+
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=wrouruy&show_icons=true"/> --!>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&hide=html&layout=compact&theme=transparent"/>
