@@ -13,7 +13,7 @@ specialize in Fullstack development💻.<br>
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&hide=html&layout=compact&theme=transparent --!>
 <!-- https://github.r2v.ch/codewars?user=wrouruy --!>
 
-![top-language](https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&hide=html&layout=compact&theme=transparent)
+![Top-language]( https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&hide=html&layout=compact&theme=transparent )
 
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
