@@ -49,5 +49,5 @@ specialize in Fullstack development💻.<br>
   <a href="https://www.npmjs.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" alt="npm" height="40"/></a>
   <a href="https://www.markdownguide.org"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTfXwY_1HFsyuMhX0ajaCCv_ZsKlUb9k0kA&s" alt="markdown" width="40"/></a>
   <a href="https://code.visualstudio.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/></a>
-  <a href="https://fontawesome.com"><img src="https://static-00.iconduck.com/assets.00/font-awesome-icon-2048x2048-ntlx9tlt.png" alt="Font-awesome" width="40" height="40"/></a>
+  <a href="https://fontawesome.com"><img src="https://static-00.iconduck.com/assets.00/font-awesome-icon-2048x2048-ntlx9tlt.png" alt="Font-awesome" height="40" height="40"/></a>
 </p>
