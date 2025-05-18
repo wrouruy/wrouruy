@@ -9,9 +9,11 @@ specialize in Fullstack development💻.<br>
   - web applications
   - web site
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=wrouruy&show_icons=true"/> --!>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&hide=html&layout=compact&theme=transparent"/>
-<!-- <img src="https://github.r2v.ch/codewars?user=wrouruy" width="300px"> --!>
+<!-- https://github-readme-stats.vercel.app/api?username=wrouruy&show_icons=true --!>
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&hide=html&layout=compact&theme=transparent --!>
+<!-- https://github.r2v.ch/codewars?user=wrouruy --!>
+
+![top-language](https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&hide=html&layout=compact&theme=transparent"/>)
 
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
