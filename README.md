@@ -3,7 +3,7 @@
 Hello everyone 🖐️!
 
 And I repeat 2 times, but my name is Andrew - Middle developer with experience,
-I started studying programming in the fall of 2023 🍂, love to code and learn new things ❤️‍🔥,
+I started studying programming in the fall of 2023 🍂, love to code and learn new things ❤️‍🔥,\
 specialize in Fullstack development💻.
   
 ##🔥Interested in development:
