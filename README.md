@@ -1,52 +1,31 @@
-## Hi there👋, I'm Andrew
-### 👤 Who am I:
-Hello everyone 🖐️!<br>
-And I repeat 2 times, but my name is Andrew - Middle developer with experience,<br>
-I started studying programming in the fall of 2023 🍂, love to code and learn new things ❤️‍🔥,<br>
-specialize in Fullstack development💻.<br>
-  
-#### 🔥Interested in development:
-  - web applications
-  - web site
+### Hey There, I'm Andrew!
+<details>
+  <summary>About me</summary>
+  <p>Hello! I'm Andrew, the Middle Fullstack developer with experience, love to code and learn new things ❤️‍🔥</p>
+</details>
 
-<!-- https://github-readme-stats.vercel.app/api?username=wrouruy&show_icons=true --!>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&hide=html&layout=compact&theme=transparent" alt="top-language">
-<!-- https://github.r2v.ch/codewars?user=wrouruy --!>
+#### 📬 Connect with me:
 
-<h3>📬 Connect with me:</h3>
-<p align="left">
-  <a href="https://t.me/wrouruy"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="telegram" height="40" width="40"/></a>
-  <a href="https://www.instagram.com/wrouruy"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1024px-Instagram-Icon.png" alt="instagram" height="40" width="40"/></a>
-  <a href="https://discordapp.com/users/945000495540502528"><img align="center" src="https://github.com/user-attachments/assets/d9ee8856-52af-4169-b92d-bc02ae682405" alt="discord" height="40" width="40"/></a>
-</p>
-<h3>📚 My resources:</h3>
-<p align="left">
-  <a href="https://www.youtube.com"> <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="youtube" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/"><img src="https://cdn-1.webcatalog.io/catalog/mdn-web-docs/mdn-web-docs-icon.png?v=1714775085873" alt="MDN Web Docs" width="40" height="40"/></a>
-  <a href="https://stackoverflow.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" alt="stack-overflow" width="40px" height="40px"></a>
-  <a href="https://www.w3schools.com"><img src="https://avatars.githubusercontent.com/u/77673807?v=4" alt="w3school" width="40px" height="40px"></a>
-</p>
+[![Telegram](https://img.shields.io/badge/Telegram-30A9E5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wrouruy)
+[![Instagram](https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wrouruy)
+[![Discord](https://img.shields.io/badge/Discord-5764F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/945000495540502528)
+[![Mail](https://img.shields.io/badge/Gmail-4889F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wroyruy@gmail.com)
 
-<h2>My Skills:</h2>
-<h3>🛠 Languages and Framework:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://cdn.creazilla.com/icons/3254252/python-icon-sm.png" alt="Python" width="40" height="40"></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node JS" width="40" height="40"/></a>
-  <a href="https://jquery.com"><img src="https://cdn.shopware.store/H/D/7/H3WDw/media/a2/65/f7/1712844867/4ed56f1b984ca899c1ec2ff38da5f072.png?ts=1741191066" alt="JQuery" width="40" height="40"/></a>
-</p>
-<h3>🗃️ Node modules:</h3>
-<p align="left">
-  <a href="https://expressjs.com"><img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="40"/></a>
-  <a href="https://www.electronjs.org"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/1200px-Electron_Software_Framework_Logo.svg.png" alt="electron" width="40" height="40"/></a>
-  <a href="https://axios-http.com"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/axios-3088dorqgd2c1cu3h9xbue.png/axios-u9wj9f9fx8qch67xta7b0s.png?_a=DATAdtAAZAA0" alt="axios" width="40"/></a>
-  <a href="https://core.telegram.org/bots/samples"><img src="https://github.com/wrouruy/wrouruy/blob/main/node-telegram-bot-api.png" alt="node-telegram-bot-api" height="40"/></a>
-</p>
-<h3>📦 Other:</h3>
-<p align="left">
-  <a href="https://www.npmjs.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1200px-Npm-logo.svg.png" alt="npm" height="40"/></a>
-  <a href="https://www.markdownguide.org"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTfXwY_1HFsyuMhX0ajaCCv_ZsKlUb9k0kA&s" alt="markdown" height="40"/></a>
-  <a href="https://code.visualstudio.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/></a>
-</p>
+
+## My Skills:
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Python](https://img.shields.io/badge/Python-0078d7?style=for-the-badge&labelColor=black&logo=python&logoColor=0078d7)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-323540?style=for-the-badge&labelColor=black&logo=electron&logoColor=A4EFFD)
+![Axios](https://img.shields.io/badge/Axios-5F30E5?style=for-the-badge&labelColor=black&logo=axios&logoColor=5F30E5)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css&logoColor=1572B6)
+![JQuery](https://img.shields.io/badge/JQuery-1572B6?style=for-the-badge&labelColor=black&logo=jquery&logoColor=1572B6)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=vscode%20studio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FED50B?style=for-the-badge&labelColor=black&logo=linux&logoColor=FED50B)
+![Debian](https://img.shields.io/badge/Debian-D70751?style=for-the-badge&labelColor=black&logo=debian&logoColor=D70751)
+
+![Top_Language](https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&layout=compact&theme=transparent)
