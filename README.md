@@ -11,7 +11,6 @@
 [![Discord](https://img.shields.io/badge/Discord-5764F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/945000495540502528)
 [![Mail](https://img.shields.io/badge/Gmail-4889F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wroyruy@gmail.com)
 
-
 ## My Skills:
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Python](https://img.shields.io/badge/Python-0078d7?style=for-the-badge&labelColor=black&logo=python&logoColor=0078d7)
