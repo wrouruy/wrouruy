@@ -23,7 +23,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css&logoColor=1572B6)
 ![JQuery](https://img.shields.io/badge/JQuery-1572B6?style=for-the-badge&labelColor=black&logo=jquery&logoColor=1572B6)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=vscode%20studio&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=vscode%20studio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FED50B?style=for-the-badge&labelColor=black&logo=linux&logoColor=FED50B)
 ![Debian](https://img.shields.io/badge/Debian-D70751?style=for-the-badge&labelColor=black&logo=debian&logoColor=D70751)
 
