@@ -27,4 +27,4 @@
 ![Linux](https://img.shields.io/badge/Linux-FED50B?style=for-the-badge&labelColor=black&logo=linux&logoColor=FED50B)
 ![Debian](https://img.shields.io/badge/Debian-D70751?style=for-the-badge&labelColor=black&logo=debian&logoColor=D70751)
 
-![Top_Language](https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&layout=compact&theme=transparent)
+![Top_Language](https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&layout=compact&hide=html,css&theme=transparent)
