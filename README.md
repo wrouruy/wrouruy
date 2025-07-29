@@ -26,5 +26,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=vscode%20studio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FED50B?style=for-the-badge&labelColor=black&logo=linux&logoColor=FED50B)
 ![Debian](https://img.shields.io/badge/Debian-D70751?style=for-the-badge&labelColor=black&logo=debian&logoColor=D70751)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![Top_Language](https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&layout=compact&hide=html,css&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=wrouruy&layout=compact&hide=issues&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats\&rank_icon=github&hide_title=true&width=500)
