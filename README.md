@@ -30,5 +30,5 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&labelColor=black&logo=git&logoColor=white)
 ![C](https://img.shields.io/badge/c-ABBBCE.svg?style=for-the-badge&labelColor=black&logo=c&logoColor=white)
 
-![Top_Language](https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&layout=compact&hide=html,css&theme=transparent)
+![Top_Language](https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&layout=compact&hide=html,css,makefile&theme=transparent)
 ![Stats](https://github-readme-stats.vercel.app/api?username=wrouruy&layout=compact&hide=issues&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats\&rank_icon=github&hide_title=true)
