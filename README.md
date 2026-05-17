@@ -1,13 +1,9 @@
-<details>
-  <summary><h3>Distros I've Used</h3></summary>
-  <div>
-    <img src="https://img.shields.io/badge/Debian-D70751?style=for-the-badge&labelColor=black&logo=debian&logoColor=D70751" />
-    <img src="https://img.shields.io/badge/Ubuntu-DD4814?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=DD4814" />
-    <img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&labelColor=black&logo=kalilinux&logoColor=557C94" />
-    <img src="https://img.shields.io/badge/Arch-1E96D2?style=for-the-badge&labelColor=black&logo=archlinux&logoColor=1E96D2" />
-    <img src="https://img.shields.io/badge/Fedora-51A2D8?style=for-the-badge&labelColor=black&logo=fedora&logoColor=51A2D8" />
-  </div>
-</details>
+## Distros I've Used
+![Debian](https://img.shields.io/badge/Debian-D70751?style=for-the-badge&labelColor=black&logo=debian&logoColor=D70751)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-DD4814?style=for-the-badge&labelColor=black&logo=ubuntu&logoColor=DD4814)
+![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&labelColor=black&logo=kalilinux&logoColor=557C94)
+![Arch](https://img.shields.io/badge/Arch-1E96D2?style=for-the-badge&labelColor=black&logo=archlinux&logoColor=1E96D2)
+![Fedora](https://img.shields.io/badge/Fedora-51A2D8?style=for-the-badge&labelColor=black&logo=fedora&logoColor=51A2D8)
 
 ## Hard Skills:
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
