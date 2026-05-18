@@ -5,7 +5,7 @@
 ![Arch](https://img.shields.io/badge/Arch-1E96D2?style=for-the-badge&labelColor=black&logo=archlinux&logoColor=1E96D2)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2D8?style=for-the-badge&labelColor=black&logo=fedora&logoColor=51A2D8)
 
-## Hard Skills:
+## Hard Skills
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Python](https://img.shields.io/badge/Python-0078d7?style=for-the-badge&labelColor=black&logo=python&logoColor=0078d7)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
