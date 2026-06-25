@@ -23,7 +23,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FED50B?style=for-the-badge&labelColor=black&logo=linux&logoColor=FED50B)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&labelColor=black&logo=git&logoColor=white)
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wrouruy&theme=dark)
+![](https://streak-stats.demolab.com/?user=wrouruy&theme=dark)
 <!-- ![Top_Language](https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&layout=compact&hide=html,css,makefile&theme=transparent)
 ![Stats](https://github-readme-stats.vercel.app/api?username=wrouruy&layout=compact&hide=issues&theme=transparent&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats\&rank_icon=github&hide_title=true) --!>
