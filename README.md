@@ -16,8 +16,6 @@
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-FFFFFF?style=for-the-badge&labelColor=black&logo=next.js&logoColor=0000)
 ![Electron](https://img.shields.io/badge/Electron-323540?style=for-the-badge&labelColor=black&logo=electron&logoColor=A4EFFD)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css&logoColor=1572B6)
 ![Python](https://img.shields.io/badge/Python-0078d7?style=for-the-badge&labelColor=black&logo=python&logoColor=0078d7)
 ![C](https://img.shields.io/badge/c-ABBBCE.svg?style=for-the-badge&labelColor=black&logo=c&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FED50B?style=for-the-badge&labelColor=black&logo=linux&logoColor=FED50B)
