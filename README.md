@@ -17,7 +17,9 @@
 ![Nextjs](https://img.shields.io/badge/-Nextjs-FFFFFF?style=for-the-badge&labelColor=black&logo=next.js&logoColor=0000)
 ![Electron](https://img.shields.io/badge/Electron-323540?style=for-the-badge&labelColor=black&logo=electron&logoColor=A4EFFD)
 ![Python](https://img.shields.io/badge/Python-0078d7?style=for-the-badge&labelColor=black&logo=python&logoColor=0078d7)
+
 ![C](https://img.shields.io/badge/c-ABBBCE.svg?style=for-the-badge&labelColor=black&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&labelColor=black&logo=C%2B%2B&logoColor=00599C)
 ![Linux](https://img.shields.io/badge/Linux-FED50B?style=for-the-badge&labelColor=black&logo=linux&logoColor=FED50B)
 ![Docker](https://img.shields.io/badge/Docker-2B99EE?style=for-the-badge&labelColor=black&logo=docker&logoColor=2B99EE)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&labelColor=black&logo=git&logoColor=white)
