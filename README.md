@@ -27,7 +27,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2B99EE?style=for-the-badge&labelColor=black&logo=docker&logoColor=2B99EE)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&labelColor=black&logo=git&logoColor=white)
 
-![](https://term4readme.vercel.app/svg/tty-clock?timezone=Europe/Kyiv&x=20&y=25&w=400&h=250&prompt=$%20tty-clock%0A&border-radius=10)
+![](https://term4readme.vercel.app/svg/pfetch?w=450&h=240&y=25&x=15&os=gentoo&border-width=1&border-radius=10&prompt=$%20pfetch%20%23%20i%20use%20gentoo%20btw%0A&username=wrxxv&hostname=gentoo&host=ThinkPad%20E14%20Gen%206&kernel=gentoo-genkernel&uptime=idk&memory=dont%20care)
 
 <!-- ![](https://streak-stats.demolab.com/?user=wrouruy&theme=dark) --!>
 <!-- ![Top_Language](https://github-readme-stats.vercel.app/api/top-langs/?username=wrouruy&layout=compact&hide=html,css,makefile&theme=transparent)
