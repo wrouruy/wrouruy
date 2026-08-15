@@ -17,6 +17,7 @@
 ![Nextjs](https://img.shields.io/badge/-Nextjs-FFFFFF?style=for-the-badge&labelColor=black&logo=next.js&logoColor=0000)
 ![Electron](https://img.shields.io/badge/Electron-323540?style=for-the-badge&labelColor=black&logo=electron&logoColor=A4EFFD)
 ![Python](https://img.shields.io/badge/Python-0078d7?style=for-the-badge&labelColor=black&logo=python&logoColor=0078d7)
+![Go](https://img.shields.io/badge/Go-00a6d0?style=for-the-badge&labelColor=black&logo=go&logoColor=00a6d0)
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-396C94.svg?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=396C94)
 ![Redis](https://img.shields.io/badge/redis-D12B1F.svg?style=for-the-badge&labelColor=black&logo=redis&logoColor=D12B1F)
