@@ -11,19 +11,19 @@
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-377CC8?style=for-the-badge&labelColor=black&logo=typescript&logoColor=377CC8)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Npm](https://img.shields.io/badge/npm-E34F26.svg?style=for-the-badge&labelColor=black&logo=npm&logoColor=E34F26)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-FFFFFF?style=for-the-badge&labelColor=black&logo=next.js&logoColor=0000)
 ![Electron](https://img.shields.io/badge/Electron-323540?style=for-the-badge&labelColor=black&logo=electron&logoColor=A4EFFD)
 ![Python](https://img.shields.io/badge/Python-0078d7?style=for-the-badge&labelColor=black&logo=python&logoColor=0078d7)
 ![Go](https://img.shields.io/badge/Go-00a6d0?style=for-the-badge&labelColor=black&logo=go&logoColor=00a6d0)
+![C](https://img.shields.io/badge/c-ABBBCE.svg?style=for-the-badge&labelColor=black&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&labelColor=black&logo=C%2B%2B&logoColor=00599C)
+![Bash](https://img.shields.io/badge/Bash-272e36.svg?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=f7f7f7)
 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-396C94.svg?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=396C94)
 ![Redis](https://img.shields.io/badge/redis-D12B1F.svg?style=for-the-badge&labelColor=black&logo=redis&logoColor=D12B1F)
 
-![C](https://img.shields.io/badge/c-ABBBCE.svg?style=for-the-badge&labelColor=black&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&labelColor=black&logo=C%2B%2B&logoColor=00599C)
+
 ![Linux](https://img.shields.io/badge/Linux-FED50B?style=for-the-badge&labelColor=black&logo=linux&logoColor=FED50B)
 ![Docker](https://img.shields.io/badge/Docker-2B99EE?style=for-the-badge&labelColor=black&logo=docker&logoColor=2B99EE)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&labelColor=black&logo=git&logoColor=white)
